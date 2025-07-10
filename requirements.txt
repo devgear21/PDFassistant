@@ -1,0 +1,18 @@
+notebook
+ipython
+
+langgraph
+langchain
+
+# PDF Reading
+pypdf 
+
+groq  
+
+openai
+
+
+python-dotenv
+
+pgvector #vectorDB
+nomic #vector embeddings
